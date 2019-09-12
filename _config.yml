@@ -17,7 +17,8 @@ sidebar-avatar: /img/my_pic.jpg      # use absolute URL, seeing it's used in bot
 
 
 # SNS settings
-RSS: false
+#RSS: false
+RSS: true
 github_username:    anlongfei
 linkedin_username:  龙飞-luffy-an-安-99325b128
 weibo_username:     6252938434
