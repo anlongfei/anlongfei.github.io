@@ -19,6 +19,8 @@ sidebar-avatar: /img/my_pic.jpg      # use absolute URL, seeing it's used in bot
 # SNS settings
 RSS: false
 github_username:    anlongfei
+facebook_username:    anlongfei
+linkedin_username:    anlongfei
 #jianshu_username:   e71990ada2fd
 #twitter_username:   anlongfei
 
