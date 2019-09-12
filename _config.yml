@@ -11,8 +11,8 @@ github_repo: "https://github.com/anlongfei/anlongfei.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "这个人很懒，什么都没写!"
+sidebar-avatar: /img/my_pic.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
